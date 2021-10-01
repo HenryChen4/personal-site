@@ -1,0 +1,21 @@
+body {
+    font-family: 'Libre Baskerville', serif !important;
+}
+
+.paragraph-font-family {
+    font-family: 'Raleway', sans-serif;
+}
+
+.background-navy {
+    background-color: #073b4c;
+}
+
+.navbar-brand {
+    font-size: 26px;
+    font-weight: 900;
+}
+
+.jumbotron {
+    padding: 4rem 2rem;
+    margin-bottom: 2rem; 
+}
