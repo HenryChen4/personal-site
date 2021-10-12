@@ -18,6 +18,18 @@ app.get('/', (req, res)=>{
     res.render('index')
 })
 
+app.get('/service', (req, res)=>{
+    res.render('service')
+})
+
+app.get('/projects', (req, res)=>{
+    res.render('projects')
+})
+
+app.get('/contact', (req, res)=>{
+    res.render('contact')
+})
+
 app.listen(port, ()=>{
     console.log(`listening on port: ${port}`)
 })
