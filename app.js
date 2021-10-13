@@ -12,7 +12,7 @@ app.set('views', viewsPath)
 app.use(express.static(publicPath))
 hbs.registerPartials(partialPath)
 
-const port = process.env.PORT || 8080
+const port = process.env.PORT || 3000
 
 app.get('/', (req, res)=>{
     res.render('index')
