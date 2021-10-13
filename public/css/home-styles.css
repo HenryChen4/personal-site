@@ -1,0 +1,44 @@
+body {
+    background-color: #073b4c;
+}
+
+.profile-picture {
+    width: 27rem;
+}
+
+.about-container {
+    background-color: rgba(0, 0, 0, 0.2);
+    margin: 2rem 0;
+}
+
+.about-p-col{
+    text-align: left;
+    padding: 13rem 3rem;
+}
+
+.about-img-col {
+    text-align: right;
+    padding: 3rem;
+}
+
+.about-container-divider {
+    color: white;
+}
+
+.cooking-picture {
+    width: 27rem;
+}
+
+.messing-around-picture {
+    width: 27rem;
+}
+
+.about-p-col-2{
+    text-align: right;
+    padding: 13rem 3rem;
+}
+
+.about-img-col-2 {
+    text-align: left;
+    padding: 3rem;
+}
