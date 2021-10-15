@@ -7,7 +7,12 @@ body {
 }
 
 .about-container {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(137, 170, 94, 0.2);
+    margin: 2rem 0;
+}
+
+.about-container-2 {
+    background-color: rgba(146, 94, 170, 0.2);
     margin: 2rem 0;
 }
 
@@ -24,7 +29,6 @@ body {
 .about-container-divider {
     color: white;
 }
-
 
 .about-p-col-2{
     text-align: right;
