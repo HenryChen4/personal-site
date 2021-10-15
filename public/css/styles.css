@@ -18,3 +18,13 @@ body, html {
 .font-white {
     color: white;
 }
+
+.custom-button {
+    padding: 0;
+    border: none;
+}
+
+.custom-link {
+    width: 1.3rem;
+    height: 1.3rem;
+}
