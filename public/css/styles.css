@@ -19,12 +19,8 @@ body, html {
     color: white;
 }
 
-.custom-button {
-    padding: 0;
-    border: none;
-}
-
 .custom-link {
-    width: 1.3rem;
-    height: 1.3rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    margin: 0 2%;
 }
