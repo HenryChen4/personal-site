@@ -12,7 +12,7 @@ body {
 }
 
 .about-container-2 {
-    background-color: rgba(146, 94, 170, 0.2);
+    background-color: rgba(36, 194, 206, 0.2);
     margin: 2rem 0;
 }
 
@@ -31,11 +31,38 @@ body {
 }
 
 .about-p-col-2{
-    text-align: right;
+    text-align: left;
     padding: 13rem 3rem;
+    line-height: 2rem;
 }
 
 .about-img-col-2 {
-    text-align: left;
-    padding: 3rem;
+    position: relative;
+}
+
+.profile-picture-2 {
+    position: relative;
+    top: 10rem;
+    left: 5rem;
+    width: 20rem;
+    z-index: 2;
+}
+
+.profile-picture-3 {
+    position: absolute;
+    top: 23rem;
+    left: 13rem;
+    width: 25rem;
+    z-index: 1;
+}
+
+.empty-square {
+    position: relative;
+    width: 25rem;
+    height: 25rem;
+    border-radius: 2%;
+    border: 0.5px solid gold;
+    left: 7rem;
+    top: -12rem;
+    z-index: 0;
 }
