@@ -31,7 +31,7 @@ body {
 }
 
 .about-p-col-2{
-    text-align: left;
+    text-align: center;
     padding: 13rem 3rem;
     line-height: 2rem;
 }
@@ -43,15 +43,15 @@ body {
 .profile-picture-2 {
     position: relative;
     top: 10rem;
-    left: 5rem;
-    width: 20rem;
+    left: 3rem;
+    width: 25rem;
     z-index: 2;
 }
 
 .profile-picture-3 {
     position: absolute;
-    top: 23rem;
-    left: 13rem;
+    top: 19rem;
+    left: 15rem;
     width: 25rem;
     z-index: 1;
 }
