@@ -1,5 +1,5 @@
 body {
-    background-color: #073b4c;;
+    background-color: #006466;
 }
 
 .slide {
@@ -18,7 +18,7 @@ hr {
 }
 
 .bg-red {
-    background-color: rgba(249, 65, 68, 0.2);
+    background-color: rgba(249, 65, 68, 0.6);
 }
 
 .bg-purple {

@@ -1,5 +1,5 @@
 body {
-    background-color: #073b4c;
+    background-color: #006466;
 }
 
 .profile-picture {
@@ -7,12 +7,12 @@ body {
 }
 
 .about-container {
-    background-color: rgba(137, 170, 94, 0.2);
+    background-color: rgba(77, 25, 77, 0.6);
     margin: 2rem 0;
 }
 
 .about-container-2 {
-    background-color: rgba(36, 194, 206, 0.2);
+    background-color: rgba(3, 4, 94, 0.4);
     margin: 2rem 0;
 }
 
