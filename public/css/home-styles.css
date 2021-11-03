@@ -44,16 +44,22 @@ body {
     position: relative;
     top: 10rem;
     left: 3rem;
-    width: 25rem;
     z-index: 2;
+}
+
+.profile-picture-2 img {
+    width: 25rem;
 }
 
 .profile-picture-3 {
     position: absolute;
     top: 19rem;
     left: 15rem;
-    width: 25rem;
     z-index: 1;
+}
+
+.profile-picture-3 img {
+    width: 25rem;
 }
 
 .empty-square {
@@ -65,4 +71,9 @@ body {
     left: 7rem;
     top: -12rem;
     z-index: 0;
+}
+
+.img-label {
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
 }
