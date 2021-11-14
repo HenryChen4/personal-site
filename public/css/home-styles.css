@@ -7,7 +7,7 @@ body {
 }
 
 .about-container {
-    background-color: rgba(77, 25, 77, 0.6);
+    background-color: rgba(20, 125, 245, 0.6);
     margin: 2rem 0;
 }
 
@@ -32,7 +32,7 @@ body {
 
 .about-p-col-2{
     text-align: center;
-    padding: 13rem 3rem;
+    padding: 10rem 3rem;
     line-height: 2rem;
 }
 
@@ -62,6 +62,50 @@ body {
     width: 25rem;
 }
 
+.profile-picture-2-a {
+    position: relative;
+    top: 17rem;
+    left: 0rem;
+    z-index: 2;
+}
+
+.profile-picture-2-a img {
+    width: 25rem;
+}
+
+.profile-picture-3-a {
+    position: absolute;
+    top: 5rem;
+    left: 5rem;
+    z-index: 1;
+}
+
+.profile-picture-3-a img {
+    width: 25rem;
+}
+
+.profile-picture-4-a {
+    position: absolute;
+    left: 20rem;
+    z-index: 3;
+}
+
+.profile-picture-4-a img{
+    width: 16rem;
+}
+
+.profile-picture-3-b {
+    position: absolute;
+    top: 18rem;
+    left: 17rem;
+    z-index: 2;
+}
+
+.profile-picture-3-b img {
+    transform: rotate(90deg);
+    width: 17rem;
+}
+
 .empty-square {
     position: relative;
     width: 25rem;
@@ -76,4 +120,29 @@ body {
 .img-label {
     font-size: 12px;
     font-family: 'Times New Roman', Times, serif;
+}
+
+.about-img-col-3 {
+    position: relative;
+}
+
+.empty-square-2 {
+    position: relative;
+    width: 25rem;
+    height: 25rem;
+    border-radius: 2%;
+    border: 1px solid black;
+    left: 7rem;
+    top: -10rem;
+    z-index: 0;
+}
+
+.angle-container {
+    background-color: rgba(138, 201, 38, 0.6);
+    margin: 2rem 0;
+}
+
+.about-p-col-2-c {
+    text-align: left;
+    padding: 10rem 3rem;
 }
