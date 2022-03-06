@@ -3,7 +3,7 @@ body {
 }
 
 .profile-picture {
-    width: 27rem;
+    width: 80%;
 }
 
 .about-container {
@@ -18,7 +18,7 @@ body {
 
 .about-p-col{
     text-align: left;
-    padding: 13rem 3rem;
+    padding: 20% 3rem;
 }
 
 .about-img-col {
