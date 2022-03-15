@@ -12,7 +12,7 @@ body {
     height: 100%;
     position: relative;
     top: 50%;
-    padding: 5%;
+    padding: 5% 5% 5% 0;
 }
 
 hr {
@@ -31,10 +31,34 @@ hr {
     background-color: rgba(247, 184, 1, 0.2);
 }
 
+.image-container {
+    text-align: center;
+    width: 80%;
+}
+
 .community-carousel-image {
-    height: 25rem;
-    width: 100%;
     position: relative;
+    width: 80%;
     top: 50%;
     transform: translateY(-50%);
+}
+
+.barbara {
+    width: 71.8%;
+}
+
+.leah {
+    width: 73.1%;
+}
+
+.together {
+    width: 86%;
+}
+
+.fun {
+    width: 75.5%;
+}
+
+.election-day {
+    width: 100%;
 }
